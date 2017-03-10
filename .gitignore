@@ -92,3 +92,4 @@ ENV/
 .ropeproject
 
 .idea/
+mnist_for_beginners/MNIST_data
